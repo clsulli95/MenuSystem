@@ -11,4 +11,7 @@ Saved
 *.sln
 *.suo
 *.xcodeproj
-*.xcworkspace
+*.xcworkspace.vsconfig
+.vsconfig
+Build/
+Platforms/
